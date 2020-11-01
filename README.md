@@ -9,10 +9,15 @@ Currently, I am looking for a full-time role in Data Analytics,Data Science, Mac
 ### Things I'm good at
 
 **Languages:** Python,SQL,HTML,CSS.
+
 **Framework:** Flask,BOOTSTRAP.
+
 **Libraries & Tools:** Numpy,Pandas,Lambda funcion,Matplotlib,Seaborn and Scikit-Learn.
+
 **Softwares:** Excel,Jupyter Notebook,Vim,Sublime.
+
 **Operating Systems:** Linux/Windows.
+
 
 **Data Analysis:** Exploratory Data Analysis,Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing,Model Deployment.
 
