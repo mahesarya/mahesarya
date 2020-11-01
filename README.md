@@ -29,7 +29,7 @@ Currently, I am looking for a full-time role in Data Analytics,Data Science, Mac
 
 **Whats App:** 9756980837
 
-**Linkedin:** [maheshmk](linkedin.com/in/)
+**Linkedin:** [maheshmk9756](https://www.linkedin.com/in/maheshmk9756/)
 
 <!--
 **mahesarya/mahesarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
