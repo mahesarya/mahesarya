@@ -28,6 +28,7 @@ Currently, I am looking for a full-time role in Data Analytics,Data Science, Mac
 **E-Mail:** maheshmk9756@gmail.com
 
 **Whats App:** 9756980837
+
 **Linkedin:** [Mahesh Arya](linkedin.com/in/maheshmk9756)
 
 <!--
