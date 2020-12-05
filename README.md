@@ -10,7 +10,7 @@ Currently, I am looking for a full-time role in Data Analytics,Data Science, Mac
 
 **Languages:** Python,SQL,HTML,CSS.
 
-**Framework:** Flask,BOOTSTRAP.
+**Framework:** Flask,Django,BOOTSTRAP.
 
 **Libraries & Tools:** Numpy,Pandas,Lambda funcion,Matplotlib,Seaborn and Scikit-Learn.
 
