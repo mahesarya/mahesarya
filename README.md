@@ -21,7 +21,7 @@ Currently, I am looking for a full-time role in Data Analytics,Data Science, Mac
 
 **Data Analysis:** Exploratory Data Analysis,Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing,Model Deployment.
 
-## 📫 How to reach me:## 
+## 📫 How to reach me: 
 
 **Contact No.:** 9756980837
 
