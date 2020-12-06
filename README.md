@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a Computer Science Engineering graduate of 2018 batch. I come with an experience of working with different technologies including Data Science, Machine Learning and Web Development with Flask Framework.
+I’m a Computer Science Engineering graduate of 2018 batch. I come with an experience of working with different technologies including Data Science, Machine Learning and Web Development with Flask and Django Framework.
 
 
 In the past, I have worked with **AAP**(Aam Aadmi Party) as a Data Analyst intern,***Delhi***.
