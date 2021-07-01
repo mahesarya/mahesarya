@@ -4,8 +4,6 @@ I’m a Computer Science Engineering graduate of 2018 batch. I come with an expe
 
 In the past, I have worked with **AAP**(Aam Aadmi Party) as a Data Analyst intern,***Delhi***.
 
-Currently, I am looking for a full-time role in Data Analytics,Data Science, Machine Learning or related field.
-
 ### Things I'm good at
 
 **Languages:** Python,SQL,HTML,CSS.
