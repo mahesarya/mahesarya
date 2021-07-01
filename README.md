@@ -6,7 +6,7 @@ In the past, I have worked with **AAP**(Aam Aadmi Party) as a Data Analyst inter
 
 ### Things I'm good at
 
-**Languages:** Python,SQL,HTML,CSS.
+**Languages:** Advance Excel, Python,SQL,HTML,CSS.
 
 **Framework:** Flask,Django,BOOTSTRAP.
 
