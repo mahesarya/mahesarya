@@ -8,11 +8,11 @@ In the past, I have worked with **AAP**(Aam Aadmi Party) as a Data Analyst inter
 
 **Languages:** Python,SQL,HTML,CSS.
 
-**Framework:** Flask,Django,BOOTSTRAP.
+**Framework:** Flask, BOOTSTRAP.
 
 **Libraries & Tools:** Numpy,Pandas,Lambda funcion,Matplotlib,Seaborn and Scikit-Learn.
 
-**Softwares:** Excel,Jupyter Notebook,Vim,Sublime.
+**Softwares:** Power BI, Qlik Sense, Excel,Jupyter Notebook,Vim,Sublime.
 
 **Operating Systems:** Linux/Windows.
 
